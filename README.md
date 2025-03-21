@@ -9,7 +9,7 @@ The same is for the cleaned_merged_dataset.csv, it has been linked inside the sl
 
 The file structure will be as follows
 
-final.ipynb
+INF2008-Project-P3-G18.ipynb or INF2008-Project-P3-G18.py can be used, both file types were given just in case.
 Models > .pkl for all the models
 Multiclass_dataset > cleaned_merged_dataset.csv
 
