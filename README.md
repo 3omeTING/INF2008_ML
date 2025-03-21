@@ -11,6 +11,7 @@ The file structure will be as follows
 
 INF2008-Project-P3-G18.ipynb or INF2008-Project-P3-G18.py can be used, both file types were given just in case.
 
-Models > .pkl for all the models
-Multiclass_dataset > cleaned_merged_dataset.csv
+Models (folder) > .pkl for all the models (What should be inside)
+
+Multiclass_dataset (folder) > cleaned_merged_dataset.csv (What should be inside)
 
